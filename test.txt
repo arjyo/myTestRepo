@@ -1,2 +1,3 @@
 I am using this file as a test.
 I have added some new lines now. Hope it helps.
+Adding a third line now.
