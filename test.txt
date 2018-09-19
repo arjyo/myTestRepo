@@ -2,5 +2,6 @@ I am using this file as a test.
 I have added some new lines now. Hope it helps.
 Adding a third line now.
 Testing for new branch unicorn
+WILL ADD A LINE HERE TO CREATE A NEW BRANCH.
 I am making these changes for the pony branch.
 This file was missing the color green
